@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+	thcrap_plugin_init	@1
+	BP_thchat_init
+	BP_thchat_uninit
